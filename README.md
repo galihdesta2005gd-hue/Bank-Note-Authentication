@@ -13,19 +13,19 @@ Comprehensive exploratory Variate, Correlation, matrix tracking how much it affe
 
 ### Report 2: Banknote Authentication Dashboard Overview
 Full operational fraud monitoring canvas displaying total scanned volumes, counterfeit rates, and dual-axis parameter distributions.
-![Banknote Authentication Dashboard Overview](Preview1_.png)
+![Banknote Authentication Dashboard Overview](Preview1.png)
 
 ### Report 3: Physical Parameter Cross-Filtering Analysis
 Granular breakdown tracking length variations and identifying strategic counterfeit detection rates using dynamic parameter selections.
-![Length Attribute Cross-Filtering View](Preview2_.png)
+![Length Attribute Cross-Filtering View](Preview2.png)
 
 ### Report 4: Low Margin Specific Structural Deep-Dive
 Macro view tracking localized physical margin variances and high-risk threshold patterns across scanned banknote dimensions.
-![Margin Low Structural Feature Analysis](Preview3_.png)
+![Margin Low Structural Feature Analysis](Preview3.png)
 
 ### Report 5: Isolated Feature Tracking & Volume Distribution
 Strategic single-variable performance tracking focused purely on volume thresholds and baseline distribution trends.
-![Isolated Feature Distribution Target](Preview4_3.png)
+![Isolated Feature Distribution Target](Preview4.png)
 
 
 ## Project Overview
