@@ -5,6 +5,29 @@ End-to-end currency forensics pipeline combining an optimized Random Forest clas
 
 An end-to-end data analytics and machine learning project designed to identify counterfeit banknotes using physical geometric dimensions. This project combines a **Random Forest Classifier** predictive pipeline with an interactive **Power BI Dashboard** for proactive risk analysis and structural pattern discovery.
 
+### Report 1: Python Exploratory Data Analysis (EDA) Overview
+Comprehensive exploratory Variate, Correlation, matrix tracking how much it affects the notes result with python.
+![Exploratory Data Analysis Features](PythonPreview1.png) 
+![Exploratory Data Analysis Features](PythonPreview2.png)
+![Exploratory Data Analysis Features](PythonPreview3.png)
+
+### Report 2: Banknote Authentication Dashboard Overview
+Full operational fraud monitoring canvas displaying total scanned volumes, counterfeit rates, and dual-axis parameter distributions.
+![Banknote Authentication Dashboard Overview](Preview1_3.png)
+
+### Report 3: Physical Parameter Cross-Filtering Analysis
+Granular breakdown tracking length variations and identifying strategic counterfeit detection rates using dynamic parameter selections.
+![Length Attribute Cross-Filtering View](Preview2_3.png)
+
+### Report 4: Low Margin Specific Structural Deep-Dive
+Macro view tracking localized physical margin variances and high-risk threshold patterns across scanned banknote dimensions.
+![Margin Low Structural Feature Analysis](Preview3_3.png)
+
+### Report 5: Isolated Feature Tracking & Volume Distribution
+Strategic single-variable performance tracking focused purely on volume thresholds and baseline distribution trends.
+![Isolated Feature Distribution Target](Preview4_3.png)
+
+
 ## Project Overview
 Counterfeit currency poses an ongoing threat to financial operations. This project establishes a data-driven approach to:
 1. **Predict:** Automatically classify whether a banknote is genuine or counterfeit based on structural measurements.
@@ -52,17 +75,6 @@ Below are the data distribution, feature interaction, and correlation visualizat
   <img src="PythonPreview3.png" width="32%" alt="Feature Correlation Matrix" />
 </p>
 
-## Power BI Interactive Dashboard
-The companion dashboard transforms static model data into an operational risk scoping interface. 
-<!-- Power BI Dashboard Gallery -->
-<p align="center">
-  <img src="Preview1_3.png" width="48%" alt="Dashboard Overview Layout" />
-  <img src="Preview2_3.png" width="48%" alt="Dynamic Length Parameter Slicing" />
-</p>
-<p align="center">
-  <img src="Preview3_3.png" width="48%" alt="Margin Low Risk Deep-Dive" />
-  <img src="Preview4_3.png" width="48%" alt="Volume Threshold Breakdown" />
-</p>
 
 ### Key Analytics Features:
 *   **High-Level KPIs:** Instant visibility into **Total Scanned Volume** and the **Counterfeit Rate (%)**.
